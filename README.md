@@ -1,4 +1,4 @@
-# Ecommerce Vanilla JS site
+# JS Vanilla Ecommerce site
 ### Made by: Oscar Sebastian Sanchez Morales
 ### On: December 2022. All rights reserved
 
